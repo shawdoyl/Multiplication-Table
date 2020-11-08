@@ -3,7 +3,7 @@
 'Fall 2020
 'Multiplication Table
 'https://github.com/shawdoyl/Multiplication-Table
-Imports System.CodeDom.Compiler
+Imports System.CodeDom.Compiler ' Why is this needed? - TJR
 
 Module MultiplicationTable
     Public limitNumber As Integer
